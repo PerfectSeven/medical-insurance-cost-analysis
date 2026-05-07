@@ -1,4 +1,3 @@
-# medical-insurance-cost-analysis
 # Medical Insurance Cost Analysis (Excel Project)
 
 This project explores a Medical Insurance Cost dataset using Excel.  
@@ -59,7 +58,7 @@ The dataset contains the following columns:
 ## My Contact
 **Crystal Obidike**  
 Frontend Developer | Data Analyst  
-📩 Email: [crystalobidike@gmail.com] 
+📩 Email: [obidikecrystal@gmail.com] 
  
 
 
